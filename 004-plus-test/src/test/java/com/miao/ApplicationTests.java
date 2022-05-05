@@ -128,7 +128,7 @@ class ApplicationTests {
        userMapper.selectById(5);
     }
 
-    //测试性能分析插件
+    //测试性能分析
     @Test
     public void testFenxi(){
         userMapper.selectList(null);
