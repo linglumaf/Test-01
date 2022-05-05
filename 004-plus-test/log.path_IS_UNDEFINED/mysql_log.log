@@ -1,0 +1,10 @@
+2022-05-04 12:32:45 c.m.d.U.selectList 137 [DEBUG] ==>  Preparing: SELECT id,name,age,email FROM user
+ 2022-05-04 12:32:45 c.m.d.U.selectList 137 [DEBUG] ==> Parameters: 
+ 2022-05-04 12:32:45 c.m.d.U.selectList 137 [DEBUG] <==      Total: 5
+ 2022-05-04 12:33:46 c.m.d.U.selectList 137 [DEBUG] ==>  Preparing: SELECT id,name,age,email FROM user
+ 2022-05-04 12:33:46 c.m.d.U.selectList 137 [DEBUG] ==> Parameters: 
+ 2022-05-04 12:33:46 c.m.d.U.selectList 137 [DEBUG] <==      Total: 5
+ 2022-05-04 12:34:56 c.m.d.U.selectList 137 [DEBUG] ==>  Preparing: SELECT id,name,age,email FROM user
+ 2022-05-04 12:34:56 c.m.d.U.selectList 137 [DEBUG] ==> Parameters: 
+ 2022-05-04 12:34:56 c.m.d.U.selectList 137 [DEBUG] <==      Total: 5
+ 
